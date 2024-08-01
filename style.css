@@ -1,0 +1,31 @@
+/* styles.css */
+
+/* Define a cor de fundo do site */
+body {
+    background-color: #E0FFFF;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo do cabeçalho */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+}
+
+/* Estilo para o título "agrinho 2024" */
+header h1 {
+    color: #008080;
+    margin-left: 20px;
+}
+
+/* Estilo para a imagem ao lado do título */
+header img {
+    height: 50px;
+    width: auto;
+}
